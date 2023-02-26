@@ -1,12 +1,5 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
-## Homework Assignment is in the following folder
-
-floretdemola/first-homework/02-challenge/Develop
-
-In the develop folder, there will be the HTML file meeting the requirements for this challenge as well as the CSS file in the assetes folder.
-
-
 
 ## Challenges in This Course
 
