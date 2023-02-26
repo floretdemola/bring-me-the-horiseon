@@ -7,6 +7,7 @@ floretdemola/first-homework/02-challenge/Develop
 In the develop folder, there will be the HTML file meeting the requirements for this challenge as well as the CSS file in the assetes folder.
 
 
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
@@ -64,8 +65,8 @@ SO THAT our own site is optimized for search engines
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
+THEN I find semantic HTML elements 
+WHEN I view the structure of the HTML elements 
 THEN I find that the elements follow a logical structure independent of styling and positioning 
 WHEN I view the icon and image elements 
 THEN I find accessible alt attributes
